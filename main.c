@@ -8,7 +8,6 @@ ogni colonna? */
 
 const int N=4;
 const int M=5;
-const int ALTO=180;
 
 int main(int argc, char** argv) {
     int persone[N][M];
